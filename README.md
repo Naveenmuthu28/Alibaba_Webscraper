@@ -41,6 +41,7 @@ alibaba_rfq_YYYY-MM-DD.csv
 Alibaba_Webscraper/
 │
 ├── alibaba_rfq.py # Main scraping script
+├──alibaba_rfq_yyyy-mm-dd.csv
 ├── requirements.txt # Required packages
 ├── README.md # Project documentation
 └── LICENSE # MIT License
