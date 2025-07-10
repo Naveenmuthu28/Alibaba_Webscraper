@@ -56,7 +56,7 @@ Alibaba_Webscraper/
 
 2. Install required packages:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
   
 3. Run the scraper:
    ```bash
