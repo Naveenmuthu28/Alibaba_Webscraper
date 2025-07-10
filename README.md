@@ -37,14 +37,14 @@ alibaba_rfq_YYYY-MM-DD.csv
 ---
 
 ## Project Structure
-
+```
 Alibaba_Webscraper/
 │
 ├── alibaba_rfq.py # Main scraping script
 ├── requirements.txt # Required packages
 ├── README.md # Project documentation
 └── LICENSE # MIT License
-
+```
 ---
 
 ## How to Run
